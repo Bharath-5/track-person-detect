@@ -41,3 +41,4 @@ A sample video of the program running can be found [[https://youtu.be/74gG0tw5zs
 * References
 ** [[https://github.com/marcoslucianops/DeepStream-Yolo#requirements][DeepStream-Yolo]]
 ** [[https://docs.nvidia.com/metropolis/deepstream/dev-guide/text/DS_C_Sample_Apps.html][Deepstream C/C++ Sample apps Documentation]]
+
